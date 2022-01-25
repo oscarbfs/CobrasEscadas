@@ -1,4 +1,4 @@
-# cobras_e_escadas
+# Cobras e Escadas
 
 ## Como rodar
 
