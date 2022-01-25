@@ -1,17 +1,9 @@
 # cobras_e_escadas
 
-A new Flutter project.
+## Como rodar
 
-## Getting Started
+Clone o repositório e rode a aplicação em um emulador, de preferência Android.
 
-This project is a starting point for a Flutter application.
+## Como funciona
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# CobrasEscadas" 
+Não consegui completar o projeto então não há funcionalidades para se observar, apenas a movimentação dos peões no tabuleiro, que está de forma automática para que eu pudesse observar a movimentação deles.
